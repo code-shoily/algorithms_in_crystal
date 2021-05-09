@@ -1,6 +1,6 @@
 # algorithms_in_crystal
 
-TODO: Write a description here
+Implementation of various algorithms in [Crystal](https://crystal-lang.org/) programming language.
 
 ## Installation
 
@@ -9,7 +9,7 @@ TODO: Write a description here
    ```yaml
    dependencies:
      algorithms_in_crystal:
-       github: your-github-user/algorithms_in_crystal
+       github: code-shoily/algorithms_in_crystal
    ```
 
 2. Run `shards install`
@@ -20,15 +20,11 @@ TODO: Write a description here
 require "algorithms_in_crystal"
 ```
 
-TODO: Write usage instructions here
-
-## Development
-
-TODO: Write development instructions here
+Please visit README of individual modules to know more about the implementation details of the data structures and algorithms.
 
 ## Contributing
 
-1. Fork it (<https://github.com/your-github-user/algorithms_in_crystal/fork>)
+1. Fork it (<https://github.com/code-shoily/algorithms_in_crystal/fork>)
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
@@ -36,4 +32,4 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Mafinar Khan](https://github.com/your-github-user) - creator and maintainer
+- [Mafinar Khan](https://github.com/code-shoily) - creator and maintainer
